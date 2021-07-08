@@ -2,18 +2,24 @@
 # Final-3rd-year-project
 
 📌https://hype-it.herokuapp.com/
-About: HYPEIT is a web-based platform to promote the influencer marketing industry in our country. The motive behind making this platform was to provide a structure to this unorganized sector. It is a software solution designed to assist brands with their Influencer Marketing Campaigns. Influencer Marketing Platforms provide influencer discovery tools for brands and agencies, some also offer massive searchable databases of potential influencers, using clever algorithms. Brands begin by creating and defining their campaign, being as specific and detailed as possible. They then search for influencers. With the Self-Serve plan, the search runs very much like any other influencer marketplace. Creators can pitch to brands directly for their campaigns by offering their respective gigs.
 
-Contributors: This platform was created by the four students of Banasthali Vidyapith of B.Tech Electronics and Communication Batch 2022.
+##**About**: 
+
+HYPEIT is a web-based platform to promote the influencer marketing industry in our country. The motive behind making this platform was to provide a structure to this unorganized sector. It is a software solution designed to assist brands with their Influencer Marketing Campaigns. Influencer Marketing Platforms provide influencer discovery tools for brands and agencies, some also offer massive searchable databases of potential influencers, using clever algorithms. Brands begin by creating and defining their campaign, being as specific and detailed as possible. They then search for influencers. With the Self-Serve plan, the search runs very much like any other influencer marketplace. Creators can pitch to brands directly for their campaigns by offering their respective gigs.
+
+##**Contributors**: 
+
+This platform was created by the four students of Banasthali Vidyapith of B.Tech Electronics and Communication Batch 2022.
 Front-end: Naina and Ismriti
 Back-end: Mitali Seth and Ishita Srivastava
 
-Framework Used:
+##**Framework Used**:
+
 The Project has been built by using python web framework Django. It provides built-in features for everything including Django Admin Interface, default database – SQLlite3, etc. Default database of Django - SQLite has been used as a Database for developing this Project. SQLite provides an excellent development alternative for applications that are predominantly read-only or require a smaller installation footprint. To develop Frontend, Bootstrap, HTML, CSS and Google fonts have been used.
 
 
 
-How it works?
+##**How it works?**
 1.	The cover page:
 ![Screenshot (1)](https://user-images.githubusercontent.com/62712945/124961027-98ba4000-e03a-11eb-942f-0660454b253c.png)
 
