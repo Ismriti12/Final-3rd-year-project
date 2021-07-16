@@ -1,6 +1,9 @@
 
 # Final-3rd-year-project
 
+Main repository: https://github.com/mitaliseth019/Sem_Project/blob/main/README.md
+
+
 📌https://hype-it.herokuapp.com/
 
 ## **About**: 
@@ -21,6 +24,7 @@ The Project has been built by using python web framework Django. It provides bui
 
 ## **How it works?**
 1.	The cover page:
+
 ![Screenshot (1)](https://user-images.githubusercontent.com/62712945/124961027-98ba4000-e03a-11eb-942f-0660454b253c.png)
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/62712945/124961080-a8d21f80-e03a-11eb-9375-85477d0e6980.png)
@@ -30,6 +34,7 @@ The Project has been built by using python web framework Django. It provides bui
 ![Screenshot (4)](https://user-images.githubusercontent.com/62712945/124961099-ad96d380-e03a-11eb-9188-9310f38d5653.png)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/62712945/124961107-af609700-e03a-11eb-8391-966b69835833.png)
+
 
 2.	About us
 
@@ -50,11 +55,10 @@ See the current projects, promotional requests.
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/62712945/124961169-c2736700-e03a-11eb-9a14-f57e39d3bb21.png)
 
- 
 
 6.	Check FAQ and chatbot if you stuck somewhere
    
-   ![Screenshot (9)](https://user-images.githubusercontent.com/62712945/124961176-c3a49400-e03a-11eb-9394-9ac3b3d150fc.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/62712945/124961176-c3a49400-e03a-11eb-9394-9ac3b3d150fc.png)
 
 
 7.	Finally, the creator can logout from the website after exploring it and will again be redirected to the first page of website.
